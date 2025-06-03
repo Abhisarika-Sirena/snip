@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme colors -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF4081</color>
+
+    <!-- Basic colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#F5F5F5</color>
+
+    <!-- Message colors -->
+    <color name="sent_message_bg">#E3F2FD</color>
+    <color name="received_message_bg">#F5F5F5</color>
+
+    <!-- Status bar and navigation colors -->
+    <color name="status_bar">#1976D2</color>
+    <color name="navigation_bar">#FFFFFF</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>

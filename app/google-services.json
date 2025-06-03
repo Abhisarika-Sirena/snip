@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831030303952",
+    "project_id": "snip-e4553",
+    "storage_bucket": "snip-e4553.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831030303952:android:03d8cb928b6336955e12d5",
+        "android_client_info": {
+          "package_name": "com.example.snip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd17p7F8okX2nXqX3BKPTtCU7APz8L79M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
